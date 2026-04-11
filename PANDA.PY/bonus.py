@@ -9,5 +9,5 @@ Student_data={
 }
 df=pd.DataFrame(Student_data)
 print(df)
-df["bonus"]=df["salary"]*0.1
+df["bonus"]=df["salary"]*0.2
 print(df)
