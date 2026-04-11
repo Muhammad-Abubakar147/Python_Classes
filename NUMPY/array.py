@@ -1,3 +1,5 @@
+
+#Types of array in Numpy
 import numpy as np
 arr=np.array([21,34,56,78,]) #this is  1d_array
 print(arr)
