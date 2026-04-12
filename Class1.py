@@ -1,3 +1,4 @@
+ # My first program(Print)
 print("I am learning Python")
 print("MY name is Muhammad Abubakar")
 print("MY Age is 21")
@@ -5,7 +6,9 @@ print("MY Father name is Muhammadd Afzal Mughal")
 print("MY name is Muhammad Abubakar")
 print("MY Age is 21")
 print("MY Father name is Muhammadd Afzal Mughal")
+
 #Variable
+
 age=21
 print(age)
 NAME= "Abubakar"
