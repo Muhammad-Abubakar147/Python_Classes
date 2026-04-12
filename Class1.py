@@ -28,6 +28,7 @@ print("moiz is also my friend nd  he is",moiz)
 print("but iam muhmmad abubakar nd iam",abubakar)
 print("arham is good boy nd he is",arham)
 #sum
+
 print(35+34+311)
 a=45
 b=74
@@ -42,6 +43,7 @@ print(a==b)
 print(a>b)
 print(a<b)
 print(a/b)
+#
 a=46
 b=536
 print(a%b)
