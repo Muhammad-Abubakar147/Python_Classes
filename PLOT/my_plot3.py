@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-Product=["Soap","Gold","safety","toffee","gilete"]
+Product=["Soap","Gold","safety","toffee","waxes"]
 Sales=[1950,1000,950,1550,760]
 plt.bar(Product,Sales,color="red",label="Product sales")
 plt.legend()
