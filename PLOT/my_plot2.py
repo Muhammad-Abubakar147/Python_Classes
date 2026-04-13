@@ -1,3 +1,4 @@
+#line plot
 import matplotlib.pyplot as plt
 Months=[1,2,3,4]
 sales=[1000,1250,1340,1570]
