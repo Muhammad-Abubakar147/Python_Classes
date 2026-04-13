@@ -1,3 +1,4 @@
+#Bar plot
 import matplotlib.pyplot as plt
 Product=["Soap","Gold","safety","toffee","waxes"]
 Sales=[1950,1000,950,1550,760]
