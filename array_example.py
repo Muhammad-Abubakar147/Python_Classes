@@ -1,5 +1,5 @@
 # Concept of Array 
-
+#different types of array
 import numpy as np
 array=np.array([12,3,4,5,66,6,])
 print(array)
