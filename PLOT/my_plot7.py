@@ -1,3 +1,4 @@
+#scatter plot
 import matplotlib.pyplot as plt
 studies_hours=[1,2,3,4,5,6,7,8]
 marks_achived=[10,99,88,77,66,56,45,32]
