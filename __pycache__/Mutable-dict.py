@@ -7,3 +7,14 @@ student={
 }
 student["name"]="ammar"
 print(student)
+
+#Example no 2 of Mutable dict 
+
+dict={
+    "name":"ammar",
+    "age":21,
+    "humage":22,
+    "hamnawa":32,
+}
+student["age"]=34,
+print(student["age"])
