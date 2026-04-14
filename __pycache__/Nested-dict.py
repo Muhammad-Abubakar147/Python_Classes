@@ -1,0 +1,10 @@
+student={
+    "name":"abubakar",
+    "age":21,
+    "subjects":{
+        "phy":132,
+        "chem":145,
+        "math":150
+    }
+}
+print(student)
