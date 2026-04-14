@@ -2,6 +2,7 @@ import numpy
 print(numpy.__version__)
 
 #my first array try
+
 import numpy as np
 
 # Array banana
