@@ -22,3 +22,19 @@ student={
     }
 }
 print(student["subjects"]["chem"])
+
+#Example 3 of Nested dic
+
+student={
+    "name":"muhammad saad ur rehman",
+    "age":32,
+    "subjects":{
+        "phy":32,
+        "chem":142,
+        "bio":32,
+        "bioinformatics":55,
+        "islamiyat":43,
+
+    }
+}
+print(student["subjects"]["chem"])
