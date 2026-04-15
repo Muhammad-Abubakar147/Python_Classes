@@ -1,0 +1,10 @@
+text=123
+string = str(text)
+palindrome = ""
+for i in reversed(string):
+  palindrome = palindrome + i
+
+if int(palindrome) == text:
+  print(True)
+else:
+  print(False)
