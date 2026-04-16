@@ -19,3 +19,9 @@ print(list)
 list=[23,45,67,89,43,12]
 list.append(320)
 print(list)
+
+#Example 5 of append method
+
+marks=[25,366,36,37,37]
+marks.append(32)
+print(marks)
