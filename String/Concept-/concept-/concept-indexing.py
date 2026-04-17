@@ -12,3 +12,8 @@ print(ch)
 
 str3="arham is not my replying because he is ignoring me"
 print(str3[15])
+
+#Example 4 of idexing
+
+str="I am learning python from apna college"
+print(str[17])
