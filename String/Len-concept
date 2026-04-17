@@ -1,0 +1,2 @@
+str="Abubakar"
+print (len(str))
