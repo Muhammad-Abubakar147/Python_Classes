@@ -1,2 +1,7 @@
 str="Abubakar"
 print (len(str))
+
+#example 2 
+
+str2="Muhammad" +" " "Abubakar"
+print(len(str2))
