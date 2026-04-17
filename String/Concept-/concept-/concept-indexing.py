@@ -7,3 +7,8 @@ print(ch)
 str2="Hammad is my friend"
 ch=str2[10]
 print(ch)
+
+#Example 3 of indexing
+
+str3="arham is not my replying because he is ignoring me"
+print(str3[15])
