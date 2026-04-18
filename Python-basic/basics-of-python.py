@@ -24,5 +24,14 @@ print(A-B)
 
 a=14
 b=2
-multiply=(a*b)
+multiply=(a*b)    #Multiply
 print(multiply)
+
+
+
+#divide
+
+a=14
+b=2
+divide=a/b
+print(divide)
