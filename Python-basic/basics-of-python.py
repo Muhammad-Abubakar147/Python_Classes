@@ -18,3 +18,11 @@ print(A+B)
 A=15    #How will print(sum)
 B=16
 print(A-B)
+
+
+#Multiply
+
+a=14
+b=2
+multiply=(a*b)
+print(multiply)
