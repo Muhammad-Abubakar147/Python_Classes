@@ -15,6 +15,6 @@ print(A+B)
 
 #subtraction
 
-A=15    
+A=15    #How will print(sum)
 B=16
 print(A-B)
