@@ -35,3 +35,10 @@ a=14
 b=2
 divide=a/b
 print(divide)
+
+
+a = 2
+b = 3      #a raised to the power b
+
+result = a ** b
+print(result)
