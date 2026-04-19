@@ -42,3 +42,13 @@ b = 3      #a raised to the power b
 
 result = a ** b
 print(result)
+
+
+a = 2
+b = 3     
+
+result = a// b
+print(result)
+
+
+
