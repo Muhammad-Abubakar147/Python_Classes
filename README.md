@@ -42,3 +42,9 @@ To build a strong foundation in Python and prepare for advanced topics like Data
 </ol>
 
 <hr>
+<hr>
+
+<h2>⭐ Support</h2>
+<p>
+If you find this helpful, give it a star ⭐
+</p>
