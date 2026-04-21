@@ -34,3 +34,11 @@ It includes basic to intermediate concepts with hands-on practice to strengthen 
 <p>
 To build a strong foundation in Python and prepare for advanced topics like Data Science and Machine Learning.
 </p>
+<h2>▶️ How to Use</h2>
+<ol>
+  <li>Clone the repository</li>
+  <li>Open in VS Code or any Python IDE</li>
+  <li>Run and practice step by step</li>
+</ol>
+
+<hr>
