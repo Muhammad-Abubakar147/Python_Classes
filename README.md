@@ -19,3 +19,12 @@ It includes basic to intermediate concepts with hands-on practice to strengthen 
 </ul>
 
 <hr>
+<h2>📂 What You Will Find Here</h2>
+<ul>
+  <li>Basic Python concepts</li>
+  <li>Variables & Data Types</li>
+  <li>Conditions & Loops</li>
+  <li>Functions</li>
+  <li>Practice exercises</li>
+  <li>Mini projects</li>
+</ul>
