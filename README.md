@@ -28,3 +28,9 @@ It includes basic to intermediate concepts with hands-on practice to strengthen 
   <li>Practice exercises</li>
   <li>Mini projects</li>
 </ul>
+<hr>
+
+<h2>🎯 Goal</h2>
+<p>
+To build a strong foundation in Python and prepare for advanced topics like Data Science and Machine Learning.
+</p>
