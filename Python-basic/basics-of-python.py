@@ -50,5 +50,9 @@ b = 3
 result = a// b
 print(result)
 
+name ='hammad'
+age =16
+print("My name is ",name,"iam",age,"years old")
+
 
 
