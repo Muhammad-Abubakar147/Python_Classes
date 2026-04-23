@@ -1,6 +1,6 @@
 Student={}
 
-
+#Interface of App
 while True:
     print("\n---------  ( STDENTS MANAGER APP )---------")
     print("1. Add student..")
