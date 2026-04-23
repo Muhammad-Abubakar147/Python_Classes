@@ -8,6 +8,9 @@ while True:
     print("3. Check result..")
     print("4. Exit..")
     
+    
+    #Enter chioce here
+    
     choice= input("Enter your Choice :")
     
     #for Addeding student
