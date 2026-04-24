@@ -1,6 +1,7 @@
 Student={}
 
 #Interface of App
+
 while True:
     print("\n---------  ( STDENTS MANAGER APP )---------")
     print("1. Add student..")
@@ -23,6 +24,7 @@ while True:
         print(f"{name} Successfully Added !")
         
     #View Student
+    
     elif choice=="2":
         if not Student:
             print("No Student Found !")   
