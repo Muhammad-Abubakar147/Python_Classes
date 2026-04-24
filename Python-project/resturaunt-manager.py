@@ -54,6 +54,7 @@ for item, qty, price in order_items:
 print("----------------------------------")
 print(f"TOTAL BILL: Rs {order_total}")
 print(" Thank you ! For Comming")
+print("Please come again")
 
 
 
