@@ -1,0 +1,9 @@
+# ==============================
+
+# 5. BITWISE OPERATORS
+a = 5   # 0101
+b = 3   # 0011
+
+print("\nBitwise Operators:")
+print("AND:", a & b)   # 1
+print("OR:", a | b)    # 7
