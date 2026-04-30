@@ -1,3 +1,4 @@
+#Example no 1 of resursion
 def factorial(n):
     if n == 0 or n == 1:   # Base Case
         return 1
