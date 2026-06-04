@@ -108,6 +108,7 @@ print(age)
 print(marks)
 #for practice
 #my first program which i have done 
+
 first=input("enter first:")
 second=input("enter second:")
 sum= first+second
