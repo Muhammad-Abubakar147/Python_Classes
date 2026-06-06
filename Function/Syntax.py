@@ -8,4 +8,4 @@ def function_name(parameters):
 def add (a,b):
     print(a+b)
     
-add(10,90)
+add(10,90) #output will 100
