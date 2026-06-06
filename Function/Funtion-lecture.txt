@@ -1,6 +1,16 @@
-Function is just named a block of code which perform a specific task
+Definition of Function:
+                       "Function is just named a block of code which perform a specific task"
+
 Lets breakdown the definition,
+
 Named:name
 Block of code : Having instructions in it .
 specific task: 1 clear task (job) which it will perform
 used again and again
+
+What help funcion:
+                  Function is helpful in:
+
+                To avoid repeatability,
+                keep clean
+                updation of code 
