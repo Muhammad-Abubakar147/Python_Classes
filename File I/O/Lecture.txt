@@ -1,1 +1,2 @@
 File I/O stands for "file input and output"
+If we are working on code the execution of code does in RAM which will dis appear after shutting down of our computer
