@@ -1,4 +1,9 @@
 File I/O stands for "file input and output"
 
 =>If we are working on code the execution of code does in RAM which will dis appear after shutting down of our computer .
-=>But if we want to store our code permanately and other data which we want to store permanatly we will store in our file . 
+=>But if we want to store our code permanately and other data which we want to store permanatly we will store in our file .
+
+===============
+Types of File :
+===============
+There are different types of file .which are different to each other.
