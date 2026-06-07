@@ -14,4 +14,4 @@ For example: Doc file, Txt file ,log file etc .
 
 =>Binery file :
 This is file which store data in "Non text file" 
-For example: mp4, mov , png, jpeg etc 
+For example: mp4, mov , png, jpeg etc (These are those file ehich store data in Video Photo etc)
