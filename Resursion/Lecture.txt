@@ -1,3 +1,5 @@
 What is recursion ?
 
                    When a function calls itself repeatdly known as recursion .
+
+We can say that recursion is dangerous version of Loop .
