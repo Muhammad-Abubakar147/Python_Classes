@@ -7,3 +7,6 @@ File I/O stands for "file input and output"
 Types of File :
 ===============
 There are different types of file .which are different to each other.
+
+=>Txt File :
+This is file which store data in chracters 
