@@ -8,6 +8,6 @@ f.close()
 print("This syntax for printing line by line")
 f = open("File I\O\Lecture-file.txt", "r")
 line1 = f.readline() #This will print line 1
-line2=f.readline()
+line2=f.readline() #This will print line 2 in file
 print(line1)
 print(line2)
