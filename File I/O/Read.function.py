@@ -11,3 +11,4 @@ line1 = f.readline() #This will print line 1
 line2=f.readline() #This will print line 2 in file
 print(line1)
 print(line2)
+
