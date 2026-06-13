@@ -5,5 +5,5 @@
 
 #For writting more
 f= open ("File I\O\File-Lecture-for-editing.txt","a")
-f.write ("and adding new text")
+f.write ("\nYES IAM MUHAMMAD ABUBKAR")
 f.close()
