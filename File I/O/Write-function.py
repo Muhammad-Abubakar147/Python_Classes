@@ -1,7 +1,7 @@
-# f=open("File I\O\File-Lecture.txt","r")
-# data=f.read()
-# print(data)
-# f.close()
+f=open("File I\O\File-Lecture.txt","r")
+data=f.read()#this is for reading a file 
+print(data)
+f.close()
 
 #For writting more
 f= open ("File I\O\File-Lecture-for-editing.txt","a")
