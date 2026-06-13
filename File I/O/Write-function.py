@@ -4,6 +4,6 @@
 # f.close()
 
 #For writting more
-f= open ("File I\O\File-Lecture-for-editing.txt","w")
-f.write ("My work is appending new text")
+f= open ("File I\O\File-Lecture-for-editing.txt","a")
+f.write ("and adding new text")
 f.close()
