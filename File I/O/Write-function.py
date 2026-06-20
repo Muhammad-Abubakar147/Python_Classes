@@ -1,5 +1,5 @@
 f=open("File I\O\File-Lecture.txt","r")
-data=f.read()#this is for reading a file 
+data=f.read()#this is for reading 
 print(data)
 f.close()
 
