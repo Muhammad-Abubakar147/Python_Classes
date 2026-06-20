@@ -1,1 +1,2 @@
 Tuple is built in data type .
+Which is immutable sequence of value .
