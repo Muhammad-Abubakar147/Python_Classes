@@ -6,3 +6,4 @@ Mutable means (we can change it)
 
 
 List => Mutable
+Tuple => Immutable
