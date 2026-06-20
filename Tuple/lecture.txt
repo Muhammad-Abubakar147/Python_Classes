@@ -7,3 +7,5 @@ Mutable means (we can change it)
 
 List => Mutable
 Tuple => Immutable
+
+syntax => "tuple=(1,2,3,4,5,6)"
