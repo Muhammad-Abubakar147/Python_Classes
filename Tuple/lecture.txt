@@ -3,3 +3,6 @@ Which is immutable sequence of value .
 
 List is mutuable but tuple ois not mutuable .
 Mutable means (we can change it)
+
+
+List => Mutable
