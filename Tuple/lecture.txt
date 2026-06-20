@@ -2,3 +2,4 @@ Tuple is built in data type .
 Which is immutable sequence of value .
 
 List is mutuable but tuple ois not mutuable .
+Mutable means (we can change it)
