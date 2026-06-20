@@ -10,3 +10,10 @@ Tuple => Immutable
 
 syntax => "tuple=(1,2,3,4,5,6)"
 syntax => "List=[1,2,3,4,5,]"
+
+
+Tuple not allow to change syntax
+
+For example :
+             tup=(1,2,3,4,5,6)
+             tup[0]=1           <= This isnot allowd in tuple because tupel is immuatable so we cannot change it .
