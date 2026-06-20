@@ -9,3 +9,4 @@ List => Mutable
 Tuple => Immutable
 
 syntax => "tuple=(1,2,3,4,5,6)"
+syntax => "List=[1,2,3,4,5,]"
