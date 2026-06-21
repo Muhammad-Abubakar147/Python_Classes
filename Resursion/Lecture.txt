@@ -5,4 +5,4 @@ What is recursion ?
 We can say that recursion is dangerous version of Loop .
 We can do all those work with recursion which can do with loop .
 We can also say that we can do all those work with loop which can do with recursion .
-Lopps and recursion are interelated to each other .
+Lopps and recursion are interelated to each other 
