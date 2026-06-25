@@ -1,3 +1,3 @@
-tup=() 
-print(tup)
-print(type(tup))
+tup=() #We can store empty tuple
+print(tup) 
+print(type(tup)) #Tuple
