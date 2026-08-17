@@ -51,3 +51,39 @@ ogic
       ├── Nested Logic
       └── Problem Solving
 DATA
+Python Data Structures
+      │
+      ├── Strings
+      ├── Lists
+      ├── Tuples
+      ├── Sets
+      └── Dictionaries
+REUSABLE CODE
+Functions
+    │
+    ├── Parameters
+    ├── Arguments
+    ├── Return Values
+    ├── Scope
+    ├── Lambda
+    └── Advanced Arguments
+REAL PROGRAMMING
+Real-World Python
+      │
+      ├── Modules
+      ├── Packages
+      ├── File Handling
+      ├── Exceptions
+      └── Code Organization
+OBJECT-ORIENTED THINKING
+OOP
+ │
+ ├── Classes
+ ├── Objects
+ ├── Constructors
+ ├── Attributes
+ ├── Methods
+ ├── Encapsulation
+ ├── Inheritance
+ ├── Polymorphism
+ └── Abstraction
