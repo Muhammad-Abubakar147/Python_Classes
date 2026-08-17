@@ -115,3 +115,30 @@ Modules                      █████████████████
 Exception Handling           ████████████████████ 100%
 File Handling                ████████████████████ 100%
 Object-Oriented Programming  ████████████████████ 100%
+
+                         PYTHON
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+            DSA       DATA SCIENCE    SOFTWARE DEV
+             │              │
+             │              ▼
+             │            NumPy
+             │              │
+             │            Pandas
+             │              │
+             │       Data Visualization
+             │              │
+             └───────┬──────┘
+                     ▼
+              MACHINE LEARNING
+                     │
+                     ▼
+               DEEP LEARNING
+                     │
+                     ▼
+              ARTIFICIAL INTELLIGENCE
+                     │
+                     ▼
+              REAL-WORLD PROJECTS
