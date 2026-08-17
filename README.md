@@ -1,112 +1,49 @@
-🐍 PYTHON — FROM ZERO TO PROGRAMMING
+# 🐍 PYTHON — FROM ZERO TO PROGRAMMING
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Learning-In%20Progress-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Code-Practice-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub-Learning%20Journey-181717?style=for-the-badge&logo=github" /> </p>
+<p align="center">
 
-<p align="center"> <b>A complete collection of my Python classes, experiments, practice, and programming concepts.</b> </p>
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-⚡ THE IDEA BEHIND THIS REPOSITORY
+  <img src="https://img.shields.io/badge/Learning-In%20Progress-orange?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Code-Practice-success?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/GitHub-Learning%20Journey-181717?style=for-the-badge&logo=github" />
+
+</p>
+
+<p align="center">
+  <b>A complete collection of my Python classes, experiments, practice, and programming concepts.</b>
+</p>
+
+<p align="center">
+  <i>Learn the concept → Write the code → Break the code → Understand the logic → Build again.</i>
+</p>
+
+---
+
+## ⚡ THE IDEA BEHIND THIS REPOSITORY
 
 This repository is more than a collection of Python files.
 
-It is a record of my transition from learning programming syntax to thinking like a programmer.
+It is a **record of my transition from learning programming syntax to thinking like a programmer.**
 
 Every class, example, experiment, and practice problem added here represents one more concept understood through code.
 
-                PYTHON
-                   │
-                   ▼
-            Programming Logic
-                   │
-                   ▼
-          Problem Solving
-                   │
-                   ▼
-          Practical Coding
-                   │
-                   ▼
-       Data Structures & Algorithms
-                   │
-                   ▼
-       Data Science / ML / AI
-
-🧭 LEARNING MAP
-
-The repository follows a progressive path rather than randomly collecting Python concepts.
-
-FOUNDATION
-Python Basics
-      │
-      ├── Syntax
-      ├── Variables
-      ├── Data Types
-      ├── Operators
-      └── Input / Output
-
-LOGIC
-Programming L
-ogic
-      │
-      ├── Conditions
-      ├── Loops
-      ├── Nested Logic
-      └── Problem Solving
-DATA
-Python Data Structures
-      │
-      ├── Strings
-      ├── Lists
-      ├── Tuples
-      ├── Sets
-      └── Dictionaries
-      
-REUSABLE CODE
-Functions
-    │
-    ├── Parameters
-    ├── Arguments
-    ├── Return Values
-    ├── Scope
-    ├── Lambda
-    └── Advanced Arguments
-    
-REAL PROGRAMMING
-Real-World Python
-      │
-      ├── Modules
-      ├── Packages
-      ├── File Handling
-      ├── Exceptions
-      └── Code Organization
-      
-OBJECT-ORIENTED THINKING
-OOP
- │
- ├── Classes
- ├── Objects
- ├── Constructors
- ├── Attributes
- ├── Methods
- ├── Encapsulation
- ├── Inheritance
- ├── Polymorphism
- └── Abstraction
-
-
-📚 WHAT I LEARNED
-
-This repository contains my implementation and practice of Python concepts including:
-
-Area	Concepts
-🐍 Fundamentals	Syntax, Variables, Input/Output, Comments
-🔢 Data	Numbers, Strings, Boolean, Type Conversion
-⚙️ Operators	Arithmetic, Comparison, Logical, Assignment
-🧠 Logic	if, elif, else, Nested Conditions
-🔁 Iteration	for, while, break, continue, range()
-🧱 Collections	Lists, Tuples, Sets, Dictionaries
-🔤 Strings	Indexing, Slicing, Methods, Formatting
-🧩 Functions	Parameters, Arguments, Return, Scope, Lambda
-📦 Modules	Imports, Built-in Modules, Custom Modules
-🚨 Exceptions	try, except, else, finally
-📁 Files	Reading, Writing, Appending, File Modes
-🏗️ OOP	Classes, Objects, Methods, Inheritance, Polymorphism
-🧪 Practice	Examples, Experiments, Exercises & Problem Solving
+```text
+                         PYTHON
+                            │
+                            ▼
+                   Programming Logic
+                            │
+                            ▼
+                     Problem Solving
+                            │
+                            ▼
+                     Practical Coding
+                            │
+                            ▼
+                Data Structures & Algorithms
+                            │
+                            ▼
+                    Data Science / ML / AI
