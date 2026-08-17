@@ -28,3 +28,16 @@ Every class, example, experiment, and practice problem added here represents one
                    │
                    ▼
        Data Science / ML / AI
+
+🧭 LEARNING MAP
+
+The repository follows a progressive path rather than randomly collecting Python concepts.
+
+FOUNDATION
+Python Basics
+      │
+      ├── Syntax
+      ├── Variables
+      ├── Data Types
+      ├── Operators
+      └── Input / Output
