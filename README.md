@@ -98,3 +98,20 @@ Python Basics
 ├── 🏗️ OOP
 │
 └── 📄 README.md
+
+
+Python Fundamentals          ████████████████████ 100%
+Data Types                   ████████████████████ 100%
+Operators                    ████████████████████ 100%
+Conditional Statements       ████████████████████ 100%
+Loops                        ████████████████████ 100%
+Strings                      ████████████████████ 100%
+Lists                        ████████████████████ 100%
+Tuples                       ████████████████████ 100%
+Sets                         ████████████████████ 100%
+Dictionaries                 ████████████████████ 100%
+Functions                    ████████████████████ 100%
+Modules                      ████████████████████ 100%
+Exception Handling           ████████████████████ 100%
+File Handling                ████████████████████ 100%
+Object-Oriented Programming  ████████████████████ 100%
