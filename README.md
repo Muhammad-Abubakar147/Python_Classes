@@ -47,3 +47,20 @@ Every class, example, experiment, and practice problem added here represents one
                             │
                             ▼
                     Data Science / ML / AI
+
+---
+
+# 🧭 LEARNING MAP
+
+This repository follows a structured learning path — from basic Python syntax to practical programming concepts.
+
+## 🧱 FOUNDATION
+
+```text
+Python Basics
+      │
+      ├── Syntax
+      ├── Variables
+      ├── Data Types
+      ├── Operators
+      └── Input / Output
