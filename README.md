@@ -41,3 +41,13 @@ Python Basics
       ├── Data Types
       ├── Operators
       └── Input / Output
+
+LOGIC
+Programming L
+ogic
+      │
+      ├── Conditions
+      ├── Loops
+      ├── Nested Logic
+      └── Problem Solving
+DATA
