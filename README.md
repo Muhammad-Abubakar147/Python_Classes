@@ -64,3 +64,37 @@ Python Basics
       ├── Data Types
       ├── Operators
       └── Input / Output
+
+🐍 Python_Classes
+│
+├── 📘 Python_Basics
+│
+├── 🔢 Data_Types
+│
+├── ⚙️ Operators
+│
+├── 🧠 Conditional_Statements
+│
+├── 🔁 Loops
+│
+├── 🔤 Strings
+│
+├── 📋 Lists
+│
+├── 📦 Tuples
+│
+├── 🔵 Sets
+│
+├── 🗂️ Dictionaries
+│
+├── 🧩 Functions
+│
+├── 📦 Modules
+│
+├── 🚨 Exception_Handling
+│
+├── 📁 File_Handling
+│
+├── 🏗️ OOP
+│
+└── 📄 README.md
